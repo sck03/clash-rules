@@ -1,0 +1,6 @@
+payload:
+  - '+.google.cn'
+  - '+.xn--ngstr-lra8j.com'
+  - '+.googleapis.cn'
+  - '+.googleapis.com'
+  - '+.argotunnel.com'
