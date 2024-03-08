@@ -1,3 +1,4 @@
 payload:
   - 'clash.razord.top'
   - 'yacd.haishan.me'
+  - '+.recaptcha.net'
