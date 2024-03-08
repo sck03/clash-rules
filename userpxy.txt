@@ -4,6 +4,7 @@ payload:
   - '+.xn--ngstr-lra8j.com'
   - '+.googleapis.com'
   - '+.argotunnel.com'
+  - '+.gvt1.com'
   #Talkatone
   - '+.crashlytics.com'
   - '+.talkatone.com'
