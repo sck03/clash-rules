@@ -3,3 +3,4 @@ payload:
   - 'yacd.haishan.me'
   - 'vcnstudio.com'
   - 'ddyucshu.cc'
+  - 'yunjiasu360.com'
