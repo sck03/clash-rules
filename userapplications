@@ -1,0 +1,5 @@
+payload:
+  - PROCESS-NAME,VcnStudio
+  - PROCESS-NAME,VcnStudio.exe
+  - PROCESS-NAME,FOFStudio
+  - PROCESS-NAME,FOFStudio.exe
