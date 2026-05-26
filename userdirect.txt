@@ -14,3 +14,7 @@ payload:
   - '+.fofstudio.net'
   - 'fedex.com'
   - '+.fedex.com'
+  - 'muyuan.do'
+  - '+.muyuan.do'
+  - 'new.sharedchat.cc'
+  - '+.sharedchat.cc'
