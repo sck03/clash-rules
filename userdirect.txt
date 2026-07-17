@@ -18,3 +18,5 @@ payload:
   - '+.muyuan.do'
   - 'new.sharedchat.cc'
   - '+.sharedchat.cc'
+  - 'chybenzun.top'
+  - '+.chybenzun.top'
